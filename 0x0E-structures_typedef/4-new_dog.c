@@ -1,4 +1,4 @@
-
+#include "dog.h"
 
 /**
 *_strlen - returns length of
