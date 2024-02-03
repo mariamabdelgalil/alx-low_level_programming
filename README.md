@@ -1,1 +1,1 @@
-functions
+hash tables
